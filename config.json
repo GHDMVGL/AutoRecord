@@ -1,0 +1,23 @@
+{
+   "name": "AutoRecord",
+   "namespace": "IB\\AutoRecord",
+   "description": "Auto add and incremente record_id",
+   "authors": [
+       {
+            "name": "Quentin Cavaillé",
+            "email": "q.cavaille@bordeaux.unicancer.fr",
+            "institution": "Institut Bergonié"
+        }
+    ],
+   "permissions": [
+   ],
+   "links": {
+       "project": [
+          {
+             "name": "AutoRecord",
+             "icon": "fas fa-receipt",
+             "url": "index.php"
+          }
+       ]
+   }
+}
