@@ -1,6 +1,6 @@
 {
    "name": "AutoRecord",
-   "namespace": "Bergonie\\AutoRecord",
+   "namespace": "InstitutBergonie\\AutoRecord",
    "description": "Auto add and incremente record_id",
    "authors": [
        {

@@ -5,7 +5,7 @@
  * @author Quentin Cavaillé, Institut Bergonié
  */
 
-namespace Bergonie\AutoRecord;
+namespace InstitutBergonie\AutoRecord;
 
 use ExternalModules\AbstractExternalModule;
 use REDCap;
