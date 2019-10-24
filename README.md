@@ -1,4 +1,4 @@
-# Autorecord
+# Autorecord for REDCap
 
 This module is for autoincrement the record_id to to the next free one.
 
